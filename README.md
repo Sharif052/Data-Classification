@@ -1,2 +1,2 @@
 # Data-Classification
-DataClassificationandPerformanceAnalysisofClassificationAlgorithmBasedonDiabetesDiseasesdata-set.
+Data Classification and Performance Analysis of Classification Algorithm Based on Diabetes Diseases data-set.
